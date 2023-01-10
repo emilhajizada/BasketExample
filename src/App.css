@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.normal{
+  border: 5px solid black;
+}
+.errorlu{
+  border: 5px solid red;
+}
